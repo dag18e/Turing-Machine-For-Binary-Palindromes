@@ -17,7 +17,7 @@ int q0();         //start state
 int q1();         //1 seen
 int q2();         //0 seen
 int q3();         //match seen
-void print();     //prints the in it's current state
+void print();     //prints the machine in its current state
 
 
 int arrow = 0;    //which slot we're reading
