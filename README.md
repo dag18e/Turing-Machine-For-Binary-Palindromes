@@ -1,3 +1,5 @@
 # Turing Machine For Binary Palindromes
 
-This is a simple turing machine simulator that is a decider for binary palindromes.
+This program simulates a Turing machine that is a decider for binary palindromes.
+
+Compilation is done using: g++ main.cpp
